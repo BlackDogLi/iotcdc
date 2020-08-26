@@ -1,0 +1,6 @@
+{
+  "name":"关于我们",
+  "action":"portal/Page/index",
+  "description": "关于我们模版页面",
+  "more":{}
+}

@@ -1,0 +1,62 @@
+{
+    "name": "联系我们页",
+    "action": "portal/Page/index",
+    "description": "联系我们页模板文件",
+    "more": {
+        "vars": {
+            "baidu_map_info_window_text": {
+                "title": "百度地图标注文字",
+                "name": "baidu_map_info_window_text",
+                "value": "地图标注文字",
+                "type": "text",
+                "tip": "百度地图标注文字,支持简单html代码",
+                "rule": []
+            },
+            "company_location": {
+                "title": "公司坐标",
+                "value": "",
+                "type": "location",
+                "tip": "",
+                "rule": {
+                    "require": true
+                }
+            },
+            "address_cn": {
+                "title": "公司地址",
+                "value": "公司地址",
+                "type": "text",
+                "tip": "",
+                "rule": {
+                    "require": true
+                }
+            },
+            "email": {
+                "title": "公司邮箱",
+                "value": "邮箱地址",
+                "type": "text",
+                "tip": "",
+                "rule": {
+                    "require": true
+                }
+            },
+            "phone_cn": {
+                "title": "公司电话",
+                "value": "公司电话",
+                "type": "text",
+                "tip": "",
+                "rule": {
+                    "require": true
+                }
+            },
+            "qq": {
+                "title": "联系QQ",
+                "value": "QQ 号码",
+                "type": "text",
+                "tip": "多个 QQ以英文逗号隔开",
+                "rule": {
+                    "require": true
+                }
+            }
+        }
+    }
+}

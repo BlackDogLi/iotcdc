@@ -1,0 +1,41 @@
+<include file="common@header"></include>
+<body class="body-white">
+<div>
+    <!-- navigation -->
+    <header class="main-header">
+        <include file="common@nav"></include>
+    </header>
+    <!-- navigation -->
+</div>
+<!-- main start-->
+<div class="container">
+    <div style="margin: 50px 0;">
+        <div class="row clearfix margin-top-20">
+            <volist name="articleList" id="article">
+                <div class="col-md-3 col-sm-6">
+                    <div class="card">
+
+                        <img class="card-img-top" src={$article.thumbnail} width="250" height="300"/>
+
+                        <div class="card-body">
+                            <h5 class="card-title">
+                                <a href="{:cmf_url('portal/Article/index',array('id'=>$article['id'],'cid'=>$category['id']))}">{$article.post_title}</a>
+                            </h5>
+                        </div>
+                    </div>
+                </div>
+            </volist>
+        </div>
+
+    </div>
+
+</div>
+
+<!-- main end-->
+
+<!--footer start -->
+<include file="common@footer"></include>
+<!-- footer end -->
+
+</body>
+</html>

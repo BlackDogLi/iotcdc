@@ -1,0 +1,82 @@
+<footer>
+    <div class="container">
+        <div class="cpy-right text-center">
+            <p>
+                Copyright &copy; 2018.慧邻科技 All rights reserved.
+            </p>
+        </div>
+    </div>
+</footer>
+<!-- // Register modal -->
+<!-- js -->
+<script src="__TMPL__/public/js/jquery-2.2.3.min.js"></script>
+<!-- //js -->
+<!-- fixed-scroll-nav-js -->
+<script src="__TMPL__/public/js/scrolling-nav.js"></script>
+<script>
+    $(window).scroll(function () {
+        if ($(document).scrollTop() > 70) {
+            $('nav.pagescrollfix,nav.RWDpagescrollfix').addClass('shrink');
+        } else {
+            $('nav.pagescrollfix,nav.RWDpagescrollfix').removeClass('shrink');
+        }
+    });
+</script>
+<!-- //fixed-scroll-nav-js -->
+<!-- script for password match -->
+<script>
+    window.onload = function () {
+        document.getElementById("password1").onchange = validatePassword;
+        document.getElementById("password2").onchange = validatePassword;
+    }
+
+    function validatePassword() {
+        var pass2 = document.getElementById("password2").value;
+        var pass1 = document.getElementById("password1").value;
+        if (pass1 != pass2)
+            document.getElementById("password2").setCustomValidity("Passwords Don't Match");
+        else
+            document.getElementById("password2").setCustomValidity('');
+        //empty string means no validation error
+    }
+</script>
+<!-- script for password match -->
+<!-- start-smooth-scrolling -->
+<script src="__TMPL__/public/js/move-top.js"></script>
+<script src="__TMPL__/public/js/easing.js"></script>
+<script>
+    jQuery(document).ready(function ($) {
+        $(".scroll").click(function (event) {
+            event.preventDefault();
+
+            $('html,body').animate({
+                scrollTop: $(this.hash).offset().top
+            }, 1000);
+        });
+    });
+</script>
+<!-- //end-smooth-scrolling -->
+<!-- smooth-scrolling-of-move-up -->
+<script>
+    $(document).ready(function () {
+        /*
+        var defaults = {
+            containerID: 'toTop', // fading element id
+            containerHoverID: 'toTopHover', // fading element hover id
+            scrollSpeed: 1200,
+            easingType: 'linear'
+        };
+        */
+
+        $().UItoTop({
+            easingType: 'easeOutQuart'
+        });
+
+    });
+</script>
+<script src="__TMPL__/public/js/SmoothScroll.min.js"></script>
+<!-- //smooth-scrolling-of-move-up -->
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="__TMPL__/public/js/bootstrap.js"></script>
