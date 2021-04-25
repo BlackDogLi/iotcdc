@@ -1,31 +1,31 @@
-<nav class="navbar second navbar-expand-lg navbar-light pagescrollfix">
+<div class="navbar navbar-light navbar-expand-xl navbar-fixed-top">
     <div class="container">
-        <a class="navbar-brand" href="/index.html">
-            <img src="__TMPL__/public/img/icon.png" height="50" width="50"/>
-            慧邻科技
-        </a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-toggle"
-                aria-controls="navbarNavAltMarkup1" aria-expanded="false" aria-label="Toggle navigation">
+        <div class="navbar-brand">
+            <img src="__TMPL__/public/img/icon.png" height="80" width="80"/>
+            <span>
+                <a class="text-decoration-none" href="/index.html">慧邻科技</a>
+            </span>
+        </div>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarDocsTopCollapse"
+                aria-controls="navbarDocsTopCollapse" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse navbar-toggle" id="navbarNavAltMarkup1">
-            <div class="navbar-nav secondfix ml-lg-auto">
-                <ul class="navbar-nav text-center">
-                    <php>
-                        $navMenu = new \app\admin\model\NavMenuModel();
-                        $menus = $navMenu->navMenusTreeArray('1');
-                    </php>
-                    <volist name="menus" id="nav">
-                       <!-- <php>
-                            $submenus = $navMenu->subNavMenusTreeArray($nav['id']);
-                        </php>-->
-                        <li class="nav-item mr-lg-3">
-                            <a class="nav-link" href="{$nav['href']}" target="{$nav['target']}">{$nav.name}</a>
-                        </li>
-                    </volist>
+        <div class="collapse navbar-collapse " role="navigation" id="navbarDocsTopCollapse">
+            <ul class="navbar-nav text-center mx-auto">
+                <php>
+                    $navMenu = new \app\admin\model\NavMenuModel();
+                    $menus = $navMenu->navMenusTreeArray('1');
+                </php>
+                <volist name="menus" id="nav">
+                    <!-- <php>
+                         $submenus = $navMenu->subNavMenusTreeArray($nav['id']);
+                     </php>-->
+                    <li class="nav-item">
+                        <a class="nav-link dropdown" href="{$nav['href']}" target="{$nav['target']}">{$nav.name}</a>
+                    </li>
+                </volist>
 
-                </ul>
-            </div>
+            </ul>
         </div>
     </div>
-</nav>
+</div>

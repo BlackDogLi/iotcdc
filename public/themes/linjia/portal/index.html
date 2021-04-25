@@ -1,15 +1,7 @@
-
 <include file="common@header"></include>
-
-
 <body>
-
     <!-- header start -->
-    <header class="main-header">
-        <!-- nav start -->
-        <include file="common@nav"></include>
-        <!-- nav end -->
-    </header>
+    <include file="common@nav"></include>
     <!-- header end -->
 
     <!-- banner start -->
@@ -18,19 +10,28 @@
         <ul class="carousel-indicators">
             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
             <li data-target="#myCarousel" data-slide-to="1"></li>
-            <li data-target="#myCarousel" data-slide-to="2"></li>
         </ul>
         <!-- 轮播（Carousel）项目 -->
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="__TMPL__/public/img/ban1.png" width="100%" alt="First slide">
+                <img src="__TMPL__/public/img/ban-1.png" width="100%" height="600" alt="First slide">
+                <div class="carousel-caption d-none d-md-block carousel-title">
+                    <h1>科技创造生活 · 精诚赢得未来</h1>
+                </div>
+                <div class="carousel-caption d-none d-md-block carousel-content">
+                    <p>以行业内成熟的技术以及完善的产品体系为基础为企，为企业和个人提供定制化的产品和服务，降低企业成本，提升品牌知名度，为传统企业赋能</p>
+                </div>
             </div>
             <div class="carousel-item">
-                <img src="__TMPL__/public/img/ban1.png" width="100%" alt="Second slide">
+                <img src="__TMPL__/public/img/ban2.jpeg" width="100%" height="600" alt="Second slide">
+                <div class="carousel-caption d-none d-md-block carousel-title">
+                    <h1>慧邻改善品质 · 共享科技红利</h1>
+                </div>
+                <div class="carousel-caption d-none d-md-block carousel-content">
+                    <p>用科技的力量为企业提升效率，打破交易空间限制，扩大交易范围，整合数据，发现未来，为企业插上腾飞的翅膀</p>
+                </div>
             </div>
-            <div class="carousel-item">
-                <img src="__TMPL__/public/img/ban1.png" width="100%" alt="Third slide">
-            </div>
+
         </div>
         <!-- 轮播（Carousel）导航 -->
         <a class="carousel-control-prev" href="#myCarousel" data-slide="prev">
@@ -40,336 +41,264 @@
             <span class="carousel-control-next-icon"></span>
         </a>
     </div>
-
-    <!--<div class="banner">
-        <div class="container">
-            <div class="banner-text">
-                <div class="banner-sign">
-                    <span class="fa fa-vine" aria-hidden="true"></span>
+    <!-- 定制 start -->
+    <section class="jumbotron bg-white text-center">
+        <div class="container projects">
+            <div class="projects-header page-header">
+                <h1>定制开发服务</h1>
+                <p class="lead text-muted">您的需求就是我们的追求，为您专属定制</p>
+            </div>
+            <div class="row">
+                <div class="col-sm-6 cols-md-4 col-lg-3">
+                    <div class="thumbnail">
+                        <div class="thumbnail-img">
+                            <img class="img-responsive align-middle" src="/themes/linjia/public/img/service_website.png" width="100">
+                        </div>
+                        <div class="caption">
+                            <h3>网站设计制作</h3>
+                            <p>专业的UI设计，采用行业主流的响应式设计风格，完美适配PC、H5、手机移动端</p>
+                        </div>
+                    </div>
                 </div>
-                <h3>changing the digital landscape</h3>
-                <p>Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna
-                    aliquyam erat, At vero eos et accusam et justo duo </p>
-                <div class="d-flex justify-content-center mt-sm-5 mt-3">
-                    <a href="#offer" class="text-capitalize serv_link btn bg-theme2 text-dark scroll">explore now</a>
-                    <a href="#" role="button" data-toggle="modal" data-target="#exampleModal1" class="serv_link btn bg-theme ml-3 w3_pvt-link-bnr scroll text-white">
-                        Register Now</a>
+                <div class="col-sm-6 cols-md-4 col-lg-3">
+                    <div class="thumbnail">
+                        <div class="thumbnail-img">
+                            <img class="img-responsive align-middle" src="/themes/linjia/public/img/service_oa.png" width="100">
+                        </div>
+                        <div class="caption">
+                            <h3>行业软件定制</h3>
+                            <p>为企业定制OA、ERP、CRM、电子商务平台等应用，提高企业的效率，有效降低成本</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 cols-md-4 col-lg-3">
+                    <div class="thumbnail">
+                        <div class="thumbnail-img">
+                            <img class="img-responsive align-middle" src="/themes/linjia/public/img/service_wechat.png" width="100">
+                        </div>
+                        <div class="caption">
+                            <h3>微信开发</h3>
+                            <p>定制化微信公众号、服务号、小程序开发，满足企业个性化需求，提升企业形象</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 cols-md-4 col-lg-3">
+                    <div class="thumbnail">
+                        <div class="thumbnail-img">
+                            <img class="img-responsive align-middle" src="/themes/linjia/public/img/service_app.png" width="100">
+                        </div>
+                        <div class="caption">
+                            <h3>APP制作</h3>
+                            <p>支持安卓（Android）、苹果（iOS）两端应用研发，为企业的前行全方位护航</p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>-->
-    <!-- banner end-->
+    </section>
+    <!-- 定制 end -->
 
     <!-- about start -->
-    <section class="wthree-row py-sm-5" id="about">
-        <div class="container py-lg-5">
-            <div class="row abbot-main py-lg-5 py-4">
-                <div class="col-lg-6 about-text-grid">
-                    <h4 class="w3pvt-title">慧邻科技
-                    </h4>
-                    <span class="sub-title">公司简介</span>
-                    <p class="mt-3">
-                        太原慧邻科技公司是一家科技公司，旨在利用互联网、物联网技术拉近生活和人的距离，市场和企业的距离，让我们最大程序享受技术带来的便利。产品涉及车联网、智慧云门禁、物业综合管理平台、智能温控等等，提供在线网上商城、企业门户网站等软件的定制以及服务。
+    <section class="bg-light">
+        <div class="container about">
+            <div class="row align-items-center">
+                <div class="col-md-4 col-sm-4 col-lg-4">
+                    <h2 class="pb-2">慧邻科技</h2>
+                    <p class="pb-2">
+                        太原慧邻科技公司是一家科技公司，旨在利用互联网、物联网技术为企业赋能，使企业办公信息化，协同办公、高效办公，随时随地轻松管理公司的客户和资产，帮助企业快速搭建新零售格局，产品涉及企业门户网站、企业办公软件、行业解决方案、电子商务，公司为客户提供需求整理、UI/UE设计、研发交付、托管维护等一站式服务。
                     </p>
-                    <p></p>
-                    <a href="#offer" class="text-capitalize serv_link btn bg-theme scroll">查看更多</a>
                 </div>
-                <div class="col-lg-6 abbot-right mt-lg-0 mt-3">
-                    <span></span>
-                    <img src="__TMPL__/public/img/a.png" class="img-fluid" alt="" />
+                <div class="col-md-8 col-sm-8 col-lg-8">
+                    <div class="about-img m-sm-auto">
+                        <img src="__TMPL__/public/img/lines.png" class="img-fluid" />
+                        <div  class="parallax-layer">
+                            <img src="__TMPL__/public/img/about1.png" class="img-fluid" />
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
     <!-- about end -->
-    <!-- service start -->
-    <div class="abt_bottom py-lg-5 bg-theme1">
-        <div class="container py-sm-4 py-3">
-            <div class="clearfix">
-                <h4 class="abt-text text-capitalize text-white float-md-left">我们的服务</h4>
-                <a href="about.html" class="text-capitalize serv_link btn bg-theme2 float-md-right">查看更多</a>
-            </div>
-        </div>
-    </div>
 
-    <section class="offer-wthree py-lg-5 py-3" id="offer">
-        <div class="container  py-sm-5">
-            <div class="row text-center">
-                <div class="row">
-                    <div class="col-md-3 col-sm-6 ">
-                        <div class="home-grid">
-                            <img src="/themes/linjia/public/img/service_wechat.png" width="80"/>
-                            <h3 class="home-title my-3">公众号小程序</h3>
-                            <div class="home-content">
-                                <p>对接微信用户体系、微信公众平台的各项功能，提供定制化服务，满足企业个性化需求</p>
-                            </div>
-                            <!--<a href="about.html" class="btn wthree-bnr-btn">查看详情</a>-->
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-6 ">
-                        <div class="home-grid">
-                            <img src="/themes/linjia/public/img/service_app.png" width="80"/>
-                            <h3 class="home-title my-3">APP制作</h3>
-                            <div class="home-content">
-                                <p> Android、iOS两端应用研发，提供企业个性定制化服务</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-6 ">
-                        <div class="home-grid">
-                            <img src="/themes/linjia/public/img/service_website.png" width="80"/>
-                            <h3 class="home-title my-3">网站设计及制作</h3>
-                            <div class="home-content">
-                                <p>专业的UI设计，采用行业主流的响应式设计风格，完美适配PC、手机移动端</p>
-
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-6">
-                        <div class="home-grid">
-                            <img src="/themes/linjia/public/img/service_oa.png" width="80"/>
-                            <h3 class="home-title my-3">行业软件定制</h3>
-                            <div class="home-content">
-                                <p>为传统行业定制OA、ERP、CRM等行业应用，提高行业于现代科技的紧密结合</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                    <!--<div class="row mb-lg-4">
-                        <div class="col-lg-3 col-sm-6">
-                            <div class="home-grid">
-                                <span class="fa fa-check-circle-o" aria-hidden="true"></span>
-                                <h4 class="home-title my-3">节水滴灌系统</h4>
-                                <p> 还在为农田巨额的水费苦恼么，还在为农作物浇水灌溉效果不理想而一筹莫展么，节水滴灌，帮助它充分吸收每一滴水，每一丝水分</p>
-                                <a href="about.html" class="btn wthree-bnr-btn">查看详情</a>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-sm-6 mt-sm-0 mt-4">
-                            <div class="home-grid">
-                                <span class="fa fa-vine" aria-hidden="true"></span>
-                                <h4 class="home-title my-3">物业综合监管平台</h4>
-                                <p>帮助你精准的知道住户水、电、气的准确使用情况，不用再挨家挨户的查表，拍照。帮助实现小区人车分流，打造高端、舒适的小区环境。</p>
-                                <a href="error.html" class="btn wthree-bnr-btn">查看详情</a>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-sm-6 mx-auto mt-lg-0 mt-4">
-                            <div class="home-grid">
-                                <span class="fa fa-home" aria-hidden="true"></span>
-                                <h4 class="home-title my-3">物业综合监管平台</h4>
-                                <p>帮助你精准的知道住户水、电、气的准确使用情况，不用再挨家挨户的查表，拍照。帮助实现小区人车分流，打造高端、舒适的小区环境。</p>
-                                <a href="about.html" class="btn wthree-bnr-btn">查看详情</a>
-                            </div>
-                        </div>
-                    </div>-->
+    <!-- case start -->
+    <section class="jumbotron bg-white text-center">
+        <div class="container case">
+            <div class="case-header page-header">
+                <h1>合作案例</h1>
             </div>
-        </div>
-    </section>
-    <!-- service end -->
-    <div class="abt_bottom py-lg-5 py-4 bg-theme2 text-center">
-        <div class="container py-sm-3">
-            <h5 class="w3pvt-title text-muted">我们的优势
-            </h5>
-            <span class="sub-title text-white"></span>
-            <div class="d-flex justify-content-center mt-lg-5 mt-3">
-                <a href="portfolio.html" class="text-capitalize serv_link btn bg-theme1">合作案例</a>
-                <a href="#" role="button" data-toggle="modal" data-target="#exampleModal1" class="serv_link btn bg-theme2 ml-3 w3_pvt-link-bnr scroll text-dark">
-                    联系我们</a>
-            </div>
-        </div>
-    </div>
-    <!-- //about bottom -->
-    <!-- services-->
-    <section class="wthree-row py-sm-5 text-center position-relative" id="services">
-        <div class="container">
-            <div class="service-main py-lg-5 py-4">
-                <div class="service-text-grid">
-                    <h4 class="w3pvt-title margin-bot-2">专业
-                    </h4>
-                    <span class="sub-title">专业的人做专业的事儿</span>
-                    <p class="my-4">
-                        我们公司是以高新技术为主的科技公司，研发团队均来自百度、360、新浪等大厂，有丰富的工作经验，技术实力雄厚
-                    </p>
-                </div>
-            </div>
-        </div>
-
-        <div class="container">
-            <div class="service-main py-lg-5 py-4">
-                <div class="service-text-grid">
-                    <h4 class="w3pvt-title margin-bot-2">专注
-                    </h4>
-                    <span class="sub-title ">倾心服务每一位客户</span>
-                    <p class="my-4">
-                        倾听客户的每一个要求，站在客户角度思考问题，客户的满意才是工作的合格，这是我们的服务宗旨
-                    </p>
-                </div>
-            </div>
-        </div>
-        <div class="about-btm mt-lg-4">
-            <div class="row no-gutters">
-                <div class="col-md-4 img-grid">
-                    <img src="__TMPL__/public/img/s1.jpg" class="img-fluid" alt="" />
-                </div>
-                <div class="col-md-4 img-grid">
-                    <img src="__TMPL__/public/img/s4.jpg" class="img-fluid" alt="" />
-                </div>
-                <div class="col-md-4 img-grid">
-                    <img src="__TMPL__/public/img/s3.jpg" class="img-fluid" alt="" />
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="service-main py-lg-5 py-4">
-                <div class="service-text-grid">
-                    <h4 class="w3pvt-title margin-bot-2">完善的管理
-                    </h4>
-                    <span class="sub-title">小步快跑，大步向前</span>
-                    <p class="my-4">
-                        公司采用扁平化管理，项目采用敏捷式开发模式，确保项目的的高质量、短时间的完成，帮助企业稳定的小步快跑，大步向前
-                    </p>
-                </div>
-            </div>
-        </div>
-
-        <div class="container">
-            <div class="py-lg-5 py-4">
-                <div class="img-grid-btm">
-                    <h4 class="w3pvt-title margin-bot-2">量身定制
-                    </h4>
-                    <span class="sub-title">为客户精心打造</span>
-                    <div class="row">
-                        <div class="col-lg-7 mx-auto">
-                            <p class="my-4">
-                                我们公司细心整理为每一位客户的需求，全面调研客户的实际情况，精心为您打造一款最适合你的产品。（请尽可能的提供完整的材料）</p>
-                            <!--<ul class="img-grid-list row">
-                                <li class="col-sm-3 col-6">
-                                    <span class="fa fa-ravelry" aria-hidden="true"></span>
-                                    <h5>公司简介</h5>
-                                </li>
-                                <li class="col-sm-3 col-6">
-                                    <span class="fa fa-language" aria-hidden="true"></span>
-                                    <h5>当前业务流程</h5>
-                                </li>
-                                <li class="col-sm-3 col-6">
-                                    <span class="fa fa-wpexplorer" aria-hidden="true"></span>
-                                    <h5>您的期望</h5>
-                                </li>
-                                <li class="col-sm-3 col-6">
-                                    <span class="fa fa-houzz" aria-hidden="true"></span>
-                                    <h5>联系人</h5>
-                                </li>
-                            </ul>-->
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- //services -->
-    <!-- features-->
-    <section class="wthree-row py-sm-5 bg-theme1">
-        <div class="container py-lg-5">
-            <div class="row abbot-main py-lg-5 py-4 f-main" id="features">
-                <div class="col-lg-5 abbot-right mt-lg-0 mt-4">
-                    <span></span>
-                    <img src="__TMPL__/public/img/testi.jpg" class="img-fluid rounded" alt="" />
-                </div>
-                <div class="offset-lg-1 col-lg-6 about-text-grid">
-                    <h4 class="w3pvt-title text-white"> features
-                    </h4>
-                    <span class="sub-title text-white">公司主旨</span>
-                    <p class="mt-3 text-white">我们已为超过100+客户提供服务，如果您有任何需求，请联系我们</p>
-                    <ul class="my-4 list-head">
-                        <li>
-                            <span class="fa fa-check-circle-o mr-3" aria-hidden="true"></span>砥砺前行</li>
-                        <li>
-                            <span class="fa fa-check-circle-o mr-3"></span>便利生活</li>
-                        <li>
-                            <span class="fa fa-check-circle-o mr-3"></span>智慧出行</li>
-                        <li>
-                            <span class="fa fa-check-circle-o mr-3"></span>提升生活品质</li>
-                        <li>
-                            <i class="fa fa-check-circle-o  mr-3"></i>让更多的人享受科技的魅力</li>
-                    </ul>
-
-                    <a href="{:cmf_url('page/index', array('id' => 2))}" class="text-capitalize serv_link btn bg-theme2">联系我们</a>
-                </div>
-
-            </div>
-        </div>
-    </section>
-    <!-- //features -->
-    <!-- footer top -->
-    <!--<div class="footer-top py-lg-5 py-4">
-        <div class="container">
             <div class="row">
-                <div class="col-lg-4 footer-logo mb-lg-0 mb-4">
-                    <h2>
-                        <a href="index.html">
-                            <span>
-                                <img src="__TMPL__/public/img/icon.png" width="50" height="50"/>
-                            </span>慧邻科技
+                <div class="col-sm-6 col-md-6 col-lg-6 mb-8">
+                    <div class="card shadow border-0 p-3 case-list">
+                        <a href="http://www.xmthsw.com/" target="_blank" class="overflow-hidden">
+                            <img class="card-img top-0" src="__TMPL__/public/img/xmthsw-1.png"/>
                         </a>
-                    </h2>
-
-                   &lt;!&ndash; <div class="social-icons">
-                        <h5 class="footer-top-title">stay connected</h5>
-                        <ul class="social-icons">
-                            <li>
-                                <a href="#">
-                                    <i class="fa fa-facebook-f"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <i class="fa fa-twitter"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <i class="fa fa-google-plus" aria-hidden="true"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <i class="fa fa-linkedin" aria-hidden="true"></i>
-                                </a>
-                            </li>
-                        </ul>
-                    </div>&ndash;&gt;
+                    </div>
                 </div>
-                <div class="col-lg-4">
-                    <h5 class="footer-top-title">公司新闻</h5>
-                    <ul class="post-links">
-                        <li>
-                            <a href="#">
-
-                            </a>
-                            <span class="fa fa-clock-o mr-3"></span>
-                        </li>
-                    </ul>
+                <div class="col-sm-6 col-md-6 col-lg-6 mb-8">
+                    <div class="card shadow border-0 p-3 case-list">
+                        <a href="http://www.gztaihao.com/" target="_blank" class="overflow-hidden">
+                            <img class="card-img top-0" src="__TMPL__/public/img/gztaihao.png"/>
+                        </a>
+                    </div>
                 </div>
-                <div class="col-lg-4">
-                    <h5 class="footer-top-title">联系我们</h5>
-                    <ul class="d-flex flex-column">
-                        <li>
-                            <span class="fa fa-home mr-3"></span>
-                            <p class="d-inline">太原慧邻科技有限公司</p>
-                        </li>
-                        <li class="my-3">
-                            <span class="fa fa-envelope-open mr-3"></span>
-                            <a href="mailto:example@email.com" class="text-secondary">634647919@qq.com</a>
-                        </li>
-                        <li>
-                            <span class="fa fa-phone mr-3"></span>
-                            <p class="d-inline">18518757556</p>
-                        </li>
-                    </ul>
+                <div class="col-sm-6 col-md-6 col-lg-6 mb-8">
+                    <div class="card shadow border-0 p-3 case-list">
+                        <a href="http://www.91tlx.com/" target="_blank" class="overflow-hidden">
+                            <img class="card-img top-0" src="__TMPL__/public/img/91tlx.png"/>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-6 col-lg-6 mb-8">
+                    <div class="card shadow border-0 p-3 case-list">
+                        <a href="http://www.91tfs.com/" target="_blank" class="overflow-hidden">
+                            <img class="card-img top-0" src="__TMPL__/public/img/91tfs.png"/>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-6 col-lg-6 mb-8">
+                    <div class="card shadow border-0 p-3 case-list">
+                        <a href="http://www.elvision.cn/" target="_blank" class="overflow-hidden">
+                            <img class="card-img top-0" src="__TMPL__/public/img/elvision.png"/>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-6 col-lg-6 mb-8">
+                    <div class="card shadow border-0 p-3 case-list">
+                        <a href="http://www.52tyr.com/" target="_blank" class="overflow-hidden">
+                            <img class="card-img top-0" src="__TMPL__/public/img/52tyr.png"/>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-12 col-lg-12">
+                    <div class="text-center mt-5">
+                        <a href="/" class="btn btn-primary">View more</a>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>-->
-    <!-- //footer top -->
+    </section>
+    <!-- case end -->
+
+    <!-- solution start-->
+    <section class="text-center solution overflow-hidden">
+        <div class="overlay-background position-absolute"></div>
+        <div class="container h-100vh">
+            <div class="row">
+                <div class="page-header col-md-12">
+                    <h1 class="mb-4">企业解决方案</h1>
+                    <p>为企业赋能｜助力企业腾飞</p>
+                </div>
+            </div>
+
+            <div class="row solution-content">
+                <div class="col-sm-3 col-md-3 col-lg-3">
+                    <div class="card border-0">
+                        <div class="card-img-top">
+                            <img src="/themes/linjia/public/img/office-1.png"/>
+                        </div>
+                        <div class="card-body">
+                            <div class="card-title">办公应用领域</div>
+                            <div class="card-text">移动办公、数字化办公</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3 col-md-3 col-lg-3">
+                    <div class="card border-0">
+                        <div class="card-img-top">
+                            <img src="/themes/linjia/public/img/office-2.png"/>
+                        </div>
+                        <div class="card-body">
+                            <div class="card-title">社区治理</div>
+                            <div class="card-text">构建智慧、安全社区</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3 col-md-3 col-lg-3">
+                    <div class="card border-0">
+                        <div class="card-img-top">
+                            <img src="/themes/linjia/public/img/office-4.png"/>
+                        </div>
+                        <div class="card-body">
+                            <div class="card-title">数字农业</div>
+                            <div class="card-text">节水滴灌、温度光照监控</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3 col-md-3 col-lg-3">
+                    <div class="card border-0">
+                        <div class="card-img-top">
+                            <img src="/themes/linjia/public/img/office-3.png"/>
+                        </div>
+                        <div class="card-body">
+                            <div class="card-title">其他行业</div>
+                            <div class="card-text">节约成本、资源规划</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- solution end-->
+
+    <!-- company trends start -->
+    <section class="jumbotron bg-white text-center trends">
+        <div class="container py-5 py-md-5 py-lg-5">
+            <div class="row align-items-center mt-3 mt-md-0">
+                <div class="col-lg-8 col-md-7 order-md-1">
+                    <div class="mx-auto mx-md-0 mx-lg-7 trends-photo">
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div class="shadow-lg rounded-3 p-4 mb-5 text-sm-left">
+                                    <img class="d-inline-block mb-4 mt-2" src="/themes/linjia/public/img/trend-1.svg" alt="Icon" width="100" />
+                                    <h3>专业</h3>
+                                    <p>研发人员来自一线城市，有丰富的工作经验，实力雄厚</p>
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="shadow-lg rounded-3 p-4 mb-grid-gutter text-sm-left">
+                                    <img class="d-inline-block mb-4 mt-2" src="/themes/linjia/public/img/trend-3.svg" alt="Icon" width="100" />
+                                    <h3>聆听</h3>
+                                    <p>倾听客户的每一个要求，站在客户的角度思考问题</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mx-auto mx-md-0 trends-photo">
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div class="shadow-lg rounded-3 p-4 mb-5 text-sm-left">
+                                    <img class="d-inline-block mb-4 mt-2" src="/themes/linjia/public/img/trend-2.svg" alt="Icon" width="100" />
+                                    <h3>快速</h3>
+                                    <p>项目流程清晰完备、敏捷式开发、有专业的质量把控团队</p>
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="shadow-lg rounded-3 p-4 mb-grid-gutter text-sm-left">
+                                    <img class="d-inline-block mb-4 mt-2" src="/themes/linjia/public/img/trend-4.svg" alt="Icon" width="100" />
+                                    <h3>安全</h3>
+                                    <p>签订保密协议、无需担心隐私泄漏</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-5 order-md-2 text-center">
+                    <h1 class="mb-3">公司主旨</h1>
+                    <p class="text-muted mb-4 pb-2">
+                        用我们先进的技术、饱满的热情、完善的流程协助企业小步快跑，大步向前
+                    </p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="icon icon-b"></div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- company trends end -->
 
     <include file="common@footer"></include>
     <!-- Login modal -->
@@ -467,7 +396,5 @@
             </div>
         </div>
     </div>
-
 </body>
-
 </html>
