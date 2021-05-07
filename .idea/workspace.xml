@@ -2,53 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="504f8cb4-5134-494e-a44d-0efb976d1de7" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/public/themes/linjia/common/nav1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/52tyr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/91tfs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/91tlx.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/about.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/about1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/ban-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/ban2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/beian.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/bg-1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/bg-2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/case-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/case-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/case-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/case-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/case-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/contact.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/elvision.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/gztaihao.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/index_02.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/lines.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/office-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/office-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/office-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/office-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/office.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/project-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/project-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/trend-1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/trend-2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/trend-3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/trend-4.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/xmthsw-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/xmthsw-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/js/jquery-3.5.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/address-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/email-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/emial-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/o-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/o-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/o-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/o-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/themes/linjia/public/img/phone-1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/themes/linjia/common/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/themes/linjia/common/footer.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/themes/linjia/common/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/themes/linjia/common/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/themes/linjia/common/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/themes/linjia/common/nav.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/themes/linjia/portal/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/themes/linjia/portal/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/themes/linjia/public/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/themes/linjia/public/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/themes/linjia/public/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/themes/linjia/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/themes/linjia/public/css/style2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/themes/linjia/public/img/ban1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/themes/linjia/public/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/themes/linjia/public/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/themes/linjia/public/js/jquery-2.2.3.min.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,26 +27,30 @@
     <session id="-98711443">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="3" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Dockerfile" value="2" />
           <entry key="LICENSE" value="1" />
-          <entry key="css" value="10" />
-          <entry key="html" value="43" />
-          <entry key="jpg" value="3" />
+          <entry key="css" value="11" />
+          <entry key="html" value="47" />
+          <entry key="jpeg" value="5" />
+          <entry key="jpg" value="16" />
           <entry key="js" value="3" />
           <entry key="json" value="11" />
           <entry key="md" value="7" />
           <entry key="php" value="89" />
-          <entry key="png" value="12" />
+          <entry key="png" value="34" />
           <entry key="rnc" value="2" />
           <entry key="sql" value="1" />
+          <entry key="svg" value="1" />
           <entry key="think" value="2" />
           <entry key="version" value="1" />
           <entry key="yml" value="2" />
@@ -90,10 +58,10 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="10" />
+          <entry key="CSS" value="11" />
           <entry key="Dockerfile" value="2" />
-          <entry key="HTML" value="43" />
-          <entry key="Image" value="15" />
+          <entry key="HTML" value="47" />
+          <entry key="Image" value="55" />
           <entry key="JSON" value="11" />
           <entry key="JavaScript" value="3" />
           <entry key="Markdown" value="7" />
@@ -101,13 +69,14 @@
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="RNG Compact" value="2" />
           <entry key="SQL" value="1" />
+          <entry key="SVG" value="1" />
           <entry key="YAML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="1904" />
-          <entry key="html" value="9460" />
+          <entry key="html" value="10527" />
           <entry key="json" value="110" />
           <entry key="md" value="9" />
           <entry key="php" value="2230" />
@@ -116,7 +85,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="1904" />
-          <entry key="HTML" value="9460" />
+          <entry key="HTML" value="10527" />
           <entry key="JSON" value="110" />
           <entry key="Markdown" value="9" />
           <entry key="PHP" value="2230" />
@@ -129,52 +98,26 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/themes/linjia/portal/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="297" column="18" lean-forward="true" selection-start-line="297" selection-start-column="18" selection-end-line="297" selection-end-column="18" />
+            <state relative-caret-position="313">
+              <caret line="206" column="47" lean-forward="true" selection-start-line="206" selection-start-column="47" selection-end-line="206" selection-end-column="47" />
               <folding>
-                <element signature="n#div#0;n#body#0;n#!!top" />
                 <element signature="n#section#0;n#body#0;n#!!top" />
+                <element signature="n#section#1;n#body#0;n#!!top" />
                 <element signature="n#section#2;n#body#0;n#!!top" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/portal/route.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/bg1.png">
+        <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/o-1.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/email.png">
+        <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/o-2.png">
           <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/themes/linjia/common/nav.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="586">
-              <caret line="127" column="21" selection-start-line="127" selection-start-column="21" selection-end-line="127" selection-end-column="21" />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -242,11 +185,11 @@
         <option value="$PROJECT_DIR$/public/themes/linjia/public/js/jquery-2.2.3.min.js" />
         <option value="$PROJECT_DIR$/public/themes/linjia/public/js/bootstrap.js" />
         <option value="$PROJECT_DIR$/public/themes/linjia/common/nav1.html" />
-        <option value="$PROJECT_DIR$/public/themes/linjia/common/header.html" />
         <option value="$PROJECT_DIR$/vendor/thinkcmf/cmf/src/common.php" />
         <option value="$PROJECT_DIR$/public/themes/linjia/common/nav.html" />
         <option value="$PROJECT_DIR$/public/themes/linjia/common/footer.html" />
         <option value="$PROJECT_DIR$/public/themes/linjia/public/css/style.css" />
+        <option value="$PROJECT_DIR$/public/themes/linjia/common/header.html" />
         <option value="$PROJECT_DIR$/public/themes/linjia/portal/index.html" />
       </list>
     </option>
@@ -279,8 +222,8 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="324" />
-    <option name="y" value="31" />
+    <option name="x" value="122" />
+    <option name="y" value="25" />
     <option name="width" value="1281" />
     <option name="height" value="974" />
   </component>
@@ -326,6 +269,15 @@
               <item name="themes" type="462c0819:PsiDirectoryNode" />
               <item name="linjia" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iotcdc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iotcdc" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="linjia" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -379,18 +331,21 @@
       <workItem from="1597994600586" duration="17915000" />
       <workItem from="1598170582696" duration="41112000" />
       <workItem from="1619085544847" duration="50961000" />
-      <workItem from="1619346722288" duration="2419000" />
+      <workItem from="1619346722288" duration="2814000" />
+      <workItem from="1619402868555" duration="8584000" />
+      <workItem from="1619509574576" duration="625000" />
+      <workItem from="1620354803321" duration="1665000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112407000" />
+    <option name="totallyTimeSpent" value="123676000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="324" y="31" width="1281" height="974" extended-state="0" />
+    <frame x="122" y="25" width="1281" height="974" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21468927" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2243745" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -443,178 +398,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vendor/thinkphp/library/think/facade/Config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/thinkphp/library/think/Config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="255" column="39" selection-start-line="255" selection-start-column="39" selection-end-line="255" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/service_app.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/themes/linjia/portal/contact.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/css/bootstrap.min.css" />
-    <entry file="file://$PROJECT_DIR$/public/themes/linjia/portal/list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/themes/linjia/portal/article.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/themes/linjia/portal/about.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="5" column="157801" selection-start-line="5" selection-start-column="157801" selection-end-line="5" selection-end-column="157801" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/js/jquery-3.5.1.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="72009" lean-forward="true" selection-start-line="1" selection-start-column="72009" selection-end-line="1" selection-end-column="72009" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/themes/linjia/portal/index1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/js/bootstrap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/themes/linjia/portal/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="72" column="19" selection-start-line="70" selection-end-line="72" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/css/style2.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14370">
-          <caret line="958" column="19" selection-start-line="958" selection-start-column="19" selection-end-line="958" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/themes/linjia/portal/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="17" column="55" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/themes/linjia/manifest.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/themes/linjia/common/nav1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/themes/linjia/common/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="92" selection-start-line="19" selection-start-column="92" selection-end-line="19" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/config/database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/portal/controller/AdminIndexController.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/portal/model/PortalPostModel.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/portal/model/UserModel.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/user/controller/ProfileController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1062" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/portal/logic/PortalPostModel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-374" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/portal/controller/UserController.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/router.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/thinkcmf/cmf-app/src/user/user_action.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/thinkcmf/cmf-app/src/admin/controller/UserController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4829" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/thinkcmf/cmf-app/src/admin/model/AuthAccessModel.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/thinkphp/library/think/facade/Route.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
@@ -639,15 +422,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/a.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/ban-1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/case-2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/case-5.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -665,13 +439,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/themes/linjia/common/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/css/font-awesome.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1764" />
@@ -682,12 +449,6 @@
         <state relative-caret-position="-1034" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/bg1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/email.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/themes/linjia/common/nav.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -695,12 +456,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/css/style.css">
+    <entry file="file://$PROJECT_DIR$/public/themes/linjia/common/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="586">
-          <caret line="127" column="21" selection-start-line="127" selection-start-column="21" selection-end-line="127" selection-end-column="21" />
+        <state relative-caret-position="210">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/service_wechat.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/service_website.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/service_oa.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/s4.jpg" />
+    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/s3.jpg" />
+    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/s1.jpg" />
+    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/telphone.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/phone.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/api/portal/route.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -709,14 +488,99 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/lines.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/trend-1.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/move-top.png" />
+    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13827">
+          <caret line="5" column="114026" selection-start-line="5" selection-start-column="114026" selection-end-line="5" selection-end-column="114026" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/wx-0.jpg" />
+    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/address.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/testi.jpg" />
+    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/office.jpeg" />
+    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/index_02.jpeg" />
+    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/contact.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/case-2.jpg" />
+    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/case-2.png" />
+    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/case-3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/bg-2.jpeg" />
+    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/a.png" />
+    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/about.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/about1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/ban2.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/ban-1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/bg-1.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/bg1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="56" column="31" selection-start-line="56" selection-start-column="31" selection-end-line="56" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/beian.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/email.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/linjia/common/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/o-1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/o-4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/o-3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/linjia/public/img/o-2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/themes/linjia/portal/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="297" column="18" lean-forward="true" selection-start-line="297" selection-start-column="18" selection-end-line="297" selection-end-column="18" />
+        <state relative-caret-position="313">
+          <caret line="206" column="47" lean-forward="true" selection-start-line="206" selection-start-column="47" selection-end-line="206" selection-end-column="47" />
           <folding>
-            <element signature="n#div#0;n#body#0;n#!!top" />
             <element signature="n#section#0;n#body#0;n#!!top" />
+            <element signature="n#section#1;n#body#0;n#!!top" />
             <element signature="n#section#2;n#body#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
